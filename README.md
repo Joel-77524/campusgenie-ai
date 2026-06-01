@@ -1,4 +1,4 @@
-# 🎓 AIT College Chatbot — Agentic AI Admission Counselor
+# 🎓 AI-Powered Multi-Agent College Assistant
 
 A production-grade full-stack MERN application featuring an AI-powered college admission counselor with RAG-based knowledge retrieval and Vapi voice call integration.
 
